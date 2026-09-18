@@ -2,7 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
-#include "DeadSignalGameMode.h"
+#include "Core/DeadSignalGameMode.h"
 #include "EndScreenWidget.generated.h"
 
 /**

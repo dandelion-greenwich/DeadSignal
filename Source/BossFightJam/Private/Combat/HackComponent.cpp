@@ -1,8 +1,8 @@
-#include "HackComponent.h"
+#include "Combat/HackComponent.h"
 
-#include "BossCharacter.h"
-#include "HealthComponent.h"
-#include "DeadSignalGameMode.h"
+#include "Combat/BossCharacter.h"
+#include "Combat/HealthComponent.h"
+#include "Core/DeadSignalGameMode.h"
 #include "Kismet/GameplayStatics.h"
 #include "Components/MeshComponent.h"
 #include "Materials/MaterialInterface.h"

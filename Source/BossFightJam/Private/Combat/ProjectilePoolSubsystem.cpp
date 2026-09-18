@@ -1,6 +1,6 @@
-#include "ProjectilePoolSubsystem.h"
+#include "Combat/ProjectilePoolSubsystem.h"
 
-#include "ProjectileBase.h"
+#include "Combat/ProjectileBase.h"
 #include "Engine/World.h"
 
 void UProjectilePoolSubsystem::SetProjectileClass(TSubclassOf<AProjectileBase> InClass)

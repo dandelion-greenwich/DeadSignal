@@ -2,9 +2,9 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
-#include "DeadSignalTypes.h"
-#include "Damageable.h"
-#include "DeadSignalGameMode.h"
+#include "Core/DeadSignalTypes.h"
+#include "Core/Damageable.h"
+#include "Core/DeadSignalGameMode.h"
 #include "BossCharacter.generated.h"
 
 class UCapsuleComponent;

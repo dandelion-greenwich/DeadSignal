@@ -1,6 +1,6 @@
 #include "UI/PauseMenuWidget.h"
 
-#include "DeadSignalGameMode.h"
+#include "Core/DeadSignalGameMode.h"
 #include "GameFramework/PlayerController.h"
 #include "Kismet/GameplayStatics.h"
 #include "Kismet/KismetSystemLibrary.h"

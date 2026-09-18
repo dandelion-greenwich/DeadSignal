@@ -1,13 +1,13 @@
-#include "BossCharacter.h"
+#include "Combat/BossCharacter.h"
 
-#include "HealthComponent.h"
-#include "DeadSignalGameMode.h"
+#include "Combat/HealthComponent.h"
+#include "Core/DeadSignalGameMode.h"
 #include "Components/CapsuleComponent.h"
 #include "Components/SkeletalMeshComponent.h"
 #include "Kismet/GameplayStatics.h"
 #include "Engine/Engine.h"
-#include "ProjectileBase.h"
-#include "ProjectilePoolSubsystem.h"
+#include "Combat/ProjectileBase.h"
+#include "Combat/ProjectilePoolSubsystem.h"
 #include "DrawDebugHelpers.h"
 #include "NiagaraComponent.h"
 

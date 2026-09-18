@@ -1,6 +1,6 @@
 #include "UI/HackPanelWidget.h"
 
-#include "HackComponent.h"
+#include "Combat/HackComponent.h"
 #include "UI/HackRowWidget.h"
 #include "UI/HackKeyWidget.h"
 #include "Components/PanelWidget.h"

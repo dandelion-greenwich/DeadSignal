@@ -1,4 +1,4 @@
-#include "HealthComponent.h"
+#include "Combat/HealthComponent.h"
 
 #include "Kismet/GameplayStatics.h"
 

@@ -1,6 +1,6 @@
 #include "UI/HealthBarWidget.h"
 
-#include "HealthComponent.h"
+#include "Combat/HealthComponent.h"
 #include "Components/ProgressBar.h"
 #include "Components/TextBlock.h"
 #include "GameFramework/Pawn.h"

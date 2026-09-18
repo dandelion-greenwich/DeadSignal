@@ -1,8 +1,8 @@
 #include "UI/BossHealthBarWidget.h"
 
-#include "BossCharacter.h"
-#include "DeadSignalGameMode.h"
-#include "HealthComponent.h"
+#include "Combat/BossCharacter.h"
+#include "Core/DeadSignalGameMode.h"
+#include "Combat/HealthComponent.h"
 #include "Components/ProgressBar.h"
 #include "Components/TextBlock.h"
 #include "Kismet/GameplayStatics.h"

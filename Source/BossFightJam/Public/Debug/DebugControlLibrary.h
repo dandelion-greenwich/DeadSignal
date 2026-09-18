@@ -2,8 +2,8 @@
 
 #include "CoreMinimal.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
-#include "DeadSignalTypes.h"
-#include "DeadSignalGameMode.h"
+#include "Core/DeadSignalTypes.h"
+#include "Core/DeadSignalGameMode.h"
 #include "DebugControlLibrary.generated.h"
 
 class UHealthComponent;

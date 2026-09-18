@@ -1,7 +1,7 @@
-#include "ProjectileBase.h"
+#include "Combat/ProjectileBase.h"
 
-#include "HealthComponent.h"
-#include "ProjectilePoolSubsystem.h"
+#include "Combat/HealthComponent.h"
+#include "Combat/ProjectilePoolSubsystem.h"
 #include "Components/SphereComponent.h"
 #include "Components/StaticMeshComponent.h"
 #include "GameFramework/ProjectileMovementComponent.h"

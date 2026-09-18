@@ -3,7 +3,7 @@
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
 #include "Engine/EngineTypes.h"
-#include "DeadSignalTypes.h"
+#include "Core/DeadSignalTypes.h"
 #include "HackComponent.generated.h"
 
 class ABossCharacter;

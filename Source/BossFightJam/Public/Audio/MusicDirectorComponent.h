@@ -2,8 +2,8 @@
 
 #include "CoreMinimal.h"
 #include "Components/ActorComponent.h"
-#include "DeadSignalGameMode.h"
-#include "DeadSignalTypes.h"
+#include "Core/DeadSignalGameMode.h"
+#include "Core/DeadSignalTypes.h"
 #include "MusicDirectorComponent.generated.h"
 
 class ABossCharacter;

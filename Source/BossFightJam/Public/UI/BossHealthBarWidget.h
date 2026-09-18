@@ -2,7 +2,7 @@
 
 #include "CoreMinimal.h"
 #include "Blueprint/UserWidget.h"
-#include "DeadSignalTypes.h"
+#include "Core/DeadSignalTypes.h"
 #include "BossHealthBarWidget.generated.h"
 
 class ABossCharacter;

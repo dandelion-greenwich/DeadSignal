@@ -1,6 +1,6 @@
 #include "UI/AmmoWidget.h"
 
-#include "WeaponComponent.h"
+#include "Combat/WeaponComponent.h"
 #include "Components/TextBlock.h"
 #include "GameFramework/Pawn.h"
 #include "GameFramework/PlayerController.h"

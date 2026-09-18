@@ -1,6 +1,6 @@
 #include "UI/EncounterMessageWidget.h"
 
-#include "BossCharacter.h"
+#include "Combat/BossCharacter.h"
 #include "Components/AudioComponent.h"
 #include "Kismet/GameplayStatics.h"
 #include "Sound/SoundBase.h"
